@@ -1,0 +1,17 @@
+{
+  "tunebox": {
+    "display_name": "Tunebox",
+    "platform": ["x86"],
+    "version": "1.0.0",
+    "desc": "聚合音乐搜索下载工具，支持网易云/QQ/酷狗/酷我/咪咕等多平台。\nWeb 界面试听与下载，支持无损 FLAC、歌词封面、歌单/专辑管理。",
+    "distributor": "harbiu317",
+    "distributor_url": "https://github.com/harbiu317/feiniu-tunebox",
+    "bug_report_url": "https://github.com/harbiu317/feiniu-tunebox/issues",
+    "labels": "影音,工具",
+    "size": "11",
+    "install_type": "系统空间",
+    "isdocker": "false",
+    "download_url": "https://github.com/harbiu317/feiniu-tunebox/releases/download/v1.0.0/tunebox_1.0.0_x86.fpk",
+    "changelog": "首个发布版本：\n- 多平台聚合搜索（网易云/QQ/酷狗/酷我/咪咕/5sing/千千/汽水/JOOX/Jamendo/Bilibili）\n- 单曲、歌单、专辑搜索，支持粘贴分享链接\n- Web 内嵌播放器、换源、连续播放\n- 无损下载，自动获取歌词与封面\n- 本地自制歌单管理"
+  }
+}
