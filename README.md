@@ -15,6 +15,7 @@ https://github.com/harbiu317/FnDepot
 | 应用 | 说明 | 平台 | 版本 |
 |---|---|---|---|
 | [Tunebox](tunebox/) | 多平台聚合音乐搜索下载工具 | x86 | 1.0.0 |
+| [飞牛终端](terminal/) | Web SSH 终端，多标签、SSH 连接管理 | x86 | 1.0.0 |
 
 ## 仓库结构
 

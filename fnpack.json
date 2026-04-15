@@ -13,5 +13,20 @@
     "isdocker": "false",
     "download_url": "https://github.com/harbiu317/feiniu-tunebox/releases/download/v1.0.0/tunebox_1.0.0_x86.fpk",
     "changelog": "首个发布版本：\n- 多平台聚合搜索（网易云/QQ/酷狗/酷我/咪咕/5sing/千千/汽水/JOOX/Jamendo/Bilibili）\n- 单曲、歌单、专辑搜索，支持粘贴分享链接\n- Web 内嵌播放器、换源、连续播放\n- 无损下载，自动获取歌词与封面\n- 本地自制歌单管理"
+  },
+  "terminal": {
+    "display_name": "飞牛终端",
+    "platform": ["x86"],
+    "version": "1.0.0",
+    "desc": "飞牛 NAS 的 Web SSH 终端应用。\n基于 xterm.js 的全功能终端，支持多标签、SSH 连接管理、密钥认证、7 套配色主题。",
+    "distributor": "harbiu317",
+    "distributor_url": "https://github.com/harbiu317/feiniu-terminal",
+    "bug_report_url": "https://github.com/harbiu317/feiniu-terminal/issues",
+    "labels": "工具,效率,系统",
+    "size": "2",
+    "install_type": "系统空间",
+    "isdocker": "false",
+    "download_url": "https://github.com/harbiu317/feiniu-terminal/releases/download/v1.0.0/levis.terminal.fpk",
+    "changelog": "首个发布版本：\n- 基于 xterm.js 的 Web 终端，多标签、256 色、Unicode\n- SSH 连接管理（密码 / 私钥），AES-256-GCM 加密存储\n- NAS 本机 / 远程服务器 / 快速连接\n- 7 套配色主题，跟随系统深浅色"
   }
 }
