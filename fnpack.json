@@ -2,7 +2,7 @@
   "pichub": {
     "display_name": "图床 PicHub",
     "platform": ["x86"],
-    "version": "1.0.13",
+    "version": "1.0.14",
     "desc": "自托管图床，支持七牛云/阿里云/腾讯云/通用 S3 多云存储。\n相册管理、API Token、中文水印、EXIF 清理、WebP 转换、多格式分享链接。",
     "distributor": "harbiu317",
     "distributor_url": "https://github.com/harbiu317/feiniu-pichub",
@@ -11,8 +11,8 @@
     "size": "10",
     "install_type": "系统空间",
     "isdocker": "false",
-    "download_url": "https://github.com/harbiu317/feiniu-pichub/releases/download/v1.0.13/pichub_1.0.13_x86.fpk",
-    "changelog": "v1.0.13：首发\n- 多云存储：通用 S3 / 七牛 / 阿里 / 腾讯\n- 相册、API Token、用户配额\n- 水印（中文 TTF）、EXIF 清理、WebP、GIF 元数据剥离\n- fnOS 安装/卸载引导"
+    "download_url": "https://github.com/harbiu317/feiniu-pichub/releases/download/v1.0.14/pichub_1.0.14_x86.fpk",
+    "changelog": "v1.0.14：\n- 修复：重启后存储驱动不生效（存储设置切换七牛/阿里/腾讯后仍走本地）\n- 修复：后台保存按钮出现两个 ✓ 的显示问题"
   },
   "tunebox": {
     "display_name": "Tunebox",
