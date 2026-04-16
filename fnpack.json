@@ -32,7 +32,7 @@
   "terminal": {
     "display_name": "飞牛终端",
     "platform": ["x86"],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "desc": "飞牛 NAS 的 Web SSH 终端应用。\n基于 xterm.js 的全功能终端，支持多标签、SSH 连接管理、密钥认证、7 套配色主题。",
     "distributor": "harbiu317",
     "distributor_url": "https://github.com/harbiu317/feiniu-terminal",
@@ -41,7 +41,7 @@
     "size": "2",
     "install_type": "系统空间",
     "isdocker": "false",
-    "download_url": "https://github.com/harbiu317/feiniu-terminal/releases/download/v1.0.0/levis.terminal.fpk",
-    "changelog": "首个发布版本：\n- 基于 xterm.js 的 Web 终端，多标签、256 色、Unicode\n- SSH 连接管理（密码 / 私钥），AES-256-GCM 加密存储\n- NAS 本机 / 远程服务器 / 快速连接\n- 7 套配色主题，跟随系统深浅色"
+    "download_url": "https://github.com/harbiu317/feiniu-terminal/releases/download/v1.0.1/levis.terminal.fpk",
+    "changelog": "v1.0.1：\n- 新增 WebGL 渲染加速，不支持时自动回退 Canvas\n- 优化终端输出的二进制数据处理，修复 ANSI 转义序列和 UTF-8 显示问题"
   }
 }

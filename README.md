@@ -16,7 +16,7 @@ https://github.com/harbiu317/FnDepot
 |---|---|---|---|
 | [图床 PicHub](pichub/) | 自托管图床，多云存储 / 相册 / API Token | x86 | 1.0.16 |
 | [Tunebox](tunebox/) | 多平台聚合音乐搜索下载工具 | x86 | 1.0.1 |
-| [飞牛终端](terminal/) | Web SSH 终端，多标签、SSH 连接管理 | x86 | 1.0.0 |
+| [飞牛终端](terminal/) | Web SSH 终端，多标签、SSH 连接管理 | x86 | 1.0.1 |
 
 ## 仓库结构
 
