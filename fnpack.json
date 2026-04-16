@@ -32,7 +32,7 @@
   "lxserver": {
     "display_name": "LX Music Player",
     "platform": ["x86"],
-    "version": "1.0.4",
+    "version": "1.0.5",
     "desc": "聚合多平台音乐搜索与在线播放的 Web 播放器。\n支持网易云/QQ/酷狗/酷我/咪咕多源搜索、自定义音源、歌词显示、缓存管理、LX Music 同步、PWA。",
     "distributor": "harbiu317",
     "distributor_url": "https://github.com/harbiu317/lxserver",
@@ -41,8 +41,8 @@
     "size": "4",
     "install_type": "系统空间",
     "isdocker": "false",
-    "download_url": "https://github.com/harbiu317/lxserver/releases/download/v1.0.4/levis.lxserver.fpk",
-    "changelog": "v1.0.4：\n- 首次发布\n- 基于 lxserver v1.8.4 打包\n- 聚合多平台音乐搜索\n- 自定义音源、歌词、缓存管理"
+    "download_url": "https://github.com/harbiu317/lxserver/releases/download/v1.0.5/levis.lxserver.fpk",
+    "changelog": "v1.0.5：\n- 全新应用图标\n- 安装向导支持设置密码\n- 修复静态文件和权限问题"
   },
   "terminal": {
     "display_name": "飞牛终端",
